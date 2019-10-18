@@ -1,0 +1,24 @@
+
+.contain {
+  width: 100%;
+}
+
+
+.row {
+ overflow-x: hidden;
+  width: 100%;
+}
+
+
+// .row__inner::-webkit-scrollbar {
+//     display: none;
+//  }
+
+.row__inner {
+  transition: 450ms transform;
+  font-size: 0;
+  white-space: nowrap;
+//   margin: 70.3125px 0;
+margin-bottom: 20px;
+  padding-bottom: 10px;
+}
